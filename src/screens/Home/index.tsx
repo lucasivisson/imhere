@@ -39,7 +39,6 @@ export function Home() {
         style: "cancel",
       },
     ]);
-    console.log(`Você clicou no botão do participante ${name} para remover!`);
   }
 
   return (
